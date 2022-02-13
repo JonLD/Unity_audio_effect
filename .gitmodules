@@ -1,0 +1,3 @@
+[submodule "audio_processing_submodule"]
+	path = audio_processing_submodule
+	url = https://github.com/JonLD/audio_processing_submodule.git
